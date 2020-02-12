@@ -1,5 +1,6 @@
 package com.example.company.dao;
 
+import com.example.company.service.Company;
 import com.sun.istack.NotNull;
 
 import javax.persistence.*;

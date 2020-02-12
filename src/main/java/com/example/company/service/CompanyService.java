@@ -36,3 +36,4 @@ public class CompanyService {
     public void deleteByName(String existingName){
         companyRepository.deleteByName(existingName);
     }
+}
